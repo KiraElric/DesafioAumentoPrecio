@@ -6,6 +6,6 @@ def augment(array, multiplication)
   return new_array
 end
 
-price = [10,20,30,40,50,60]
-
-print augment(price,2)
+#Ejemplo de impresion
+#price = [10,20,30,40,50,60]
+#print augment(price,2)
